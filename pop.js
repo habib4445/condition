@@ -10,5 +10,5 @@ if(friend.includes('kalam'))
 else{
     console.log('no food eating');
 }
-// const friend=['kalam','salam','alom'];
-// console.log(friends.indexOf('salam');
+const friend=['kalam','salam','alom'];
+console.log(friends.indexOf('salam');
