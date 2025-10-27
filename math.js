@@ -7,4 +7,5 @@
   console.log(Math.floor(2.85));
   console.log(Math.ceil(2.85));
   console.log(Math.PI);
+  console.log(Math.random()*10);
   console.log(Math.abs(-45+776));
