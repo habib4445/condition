@@ -14,3 +14,9 @@
  }
  add(78162478623,378623);
  add(783784,345834);
+
+ function add1(num1,num2,num3){
+    const total=num1*num2*num3;
+    console.log(total);
+ }
+ add1(3,4,5);
